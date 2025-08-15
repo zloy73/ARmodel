@@ -1,0 +1,11 @@
+Model Information:
+* title:	Test_anim
+* source:	https://sketchfab.com/3d-models/test-anim-4cf5e4d82a794e9d88f710ac3f8bdb05
+* author:	DANILADESIGN.RU (https://sketchfab.com/vychurov)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Test_anim" (https://sketchfab.com/3d-models/test-anim-4cf5e4d82a794e9d88f710ac3f8bdb05) by DANILADESIGN.RU (https://sketchfab.com/vychurov) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
